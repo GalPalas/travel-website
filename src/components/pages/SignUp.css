@@ -1,0 +1,29 @@
+.form-control {
+  padding: 8px 10px;
+  border-radius: 2px;
+  margin-right: 10px;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  border: 1px solid #000;
+  background: transparent;
+  color: #000;
+}
+
+::placeholder {
+  color: black;
+  opacity: 1;
+}
+
+.from-area {
+  margin-top: 1.5rem;
+}
+
+.btn--primary {
+  background: transparent;
+  color: black;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  font-size: 18px;
+  padding: 8px 10px;
+}
