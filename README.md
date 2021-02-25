@@ -17,6 +17,9 @@ This project demonstrates a site of equipment store for travelers, it was built 
 ### 1.joi-browser.
 ### 2.redux.
 ### 3.axios.
+### 4.mongoose
+### 5.Mongodb
+### 6.Postman
 
 ## Languages
 ### 1.HTML.
