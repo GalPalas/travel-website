@@ -8,9 +8,9 @@ This project demonstrates a site of equipment store for travelers, it was built 
 
 ### 2.Open vs code or any other editor, and add the project.
 
-### 3.Open CLI and write the command npm install or in short npm i, this command adds all the dependencies to the project.
+### 3.Open CLI and write the command "npm install" or in short "npm i", this command adds all the dependencies to the project.
 
-### 4.Now write the command npm start, to run the project.
+### 4.Now write the command "npm start", to run the project.
 
 ## Tools used to create this project:
 
